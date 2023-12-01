@@ -1,0 +1,17 @@
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\bin\Debug\net6.0-windows\Digital Clock - CL SD Capstone Project.exe
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\bin\Debug\net6.0-windows\Digital Clock - CL SD Capstone Project.deps.json
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\bin\Debug\net6.0-windows\Digital Clock - CL SD Capstone Project.runtimeconfig.json
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\bin\Debug\net6.0-windows\Digital Clock - CL SD Capstone Project.dll
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\bin\Debug\net6.0-windows\Digital Clock - CL SD Capstone Project.pdb
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\obj\Debug\net6.0-windows\Digital_Clock___CL_SD_Capstone_Project.Form1.resources
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\obj\Debug\net6.0-windows\Digital_Clock___CL_SD_Capstone_Project.Properties.Resources.resources
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\obj\Debug\net6.0-windows\Digital Clock - CL SD Capstone Project.csproj.GenerateResource.cache
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\obj\Debug\net6.0-windows\Digital Clock - CL SD Capstone Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\obj\Debug\net6.0-windows\Digital Clock - CL SD Capstone Project.AssemblyInfoInputs.cache
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\obj\Debug\net6.0-windows\Digital Clock - CL SD Capstone Project.AssemblyInfo.cs
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\obj\Debug\net6.0-windows\Digital Clock - CL SD Capstone Project.csproj.CoreCompileInputs.cache
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\obj\Debug\net6.0-windows\Digital Clock - CL SD Capstone Project.dll
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\obj\Debug\net6.0-windows\refint\Digital Clock - CL SD Capstone Project.dll
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\obj\Debug\net6.0-windows\Digital Clock - CL SD Capstone Project.pdb
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\obj\Debug\net6.0-windows\Digital Clock - CL SD Capstone Project.genruntimeconfig.cache
+E:\Users\Josh\Documents\GitHub\Digital Clock - CL SD Capstone Project\obj\Debug\net6.0-windows\ref\Digital Clock - CL SD Capstone Project.dll
