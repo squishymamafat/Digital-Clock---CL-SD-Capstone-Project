@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             label1 = new Label();
             timer1 = new System.Windows.Forms.Timer(components);
             SuspendLayout();
@@ -36,8 +37,9 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.BackColor = Color.LightPink;
+            label1.BackColor = Color.Transparent;
             label1.Font = new Font("LCDMono2", 71.99999F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.ForeColor = Color.Pink;
             label1.Location = new Point(197, 187);
             label1.Name = "label1";
             label1.Size = new Size(435, 84);
@@ -50,6 +52,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.LightPink;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(800, 450);
             Controls.Add(label1);
             FormBorderStyle = FormBorderStyle.None;
